@@ -4,6 +4,7 @@
 - 📫 How to reach me phytes.narawit@gmail.com
 
 ## 🖥️ Hardware Programming 🖥️
+#### Board : M5StickC-Plus
 #### Feature :
 - Can send and receive data with mqtt.
 - Can custom LCD.
