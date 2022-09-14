@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @_Entity014
-- 👀 I’m interested in ML/DL
-- 🌱 I’m currently learning Robotics Engineering and Artificial Intelligence
-- 📫 How to reach me phytes.narawit@gmail.com
-
 ## 🖥️ Hardware Programming 🖥️
 #### Board : M5StickC-Plus
 #### Feature :
@@ -11,6 +6,12 @@
 - Can read data with IMU.
 - Can control servo.
 - Can read ads1115 analog.
+
+## 👏 Introduction 👏
+- 👋 Hi, I’m @_Entity014
+- 👀 I’m interested in ML/DL
+- 🌱 I’m currently learning Robotics Engineering and Artificial Intelligence
+- 📫 How to reach me phytes.narawit@gmail.com
 
 <!---
 _Entity014/_Entity014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
